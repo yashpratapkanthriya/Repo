@@ -226,14 +226,7 @@ public class ShareRepo extends JFrame{
 
 	    public static void main(String[] args) throws IOException {
 
-	    	final String username = "yashpratapkanthriya@gmail.com";
-			final String password = "ashitagupta";
-			String to ="";
-			String from = "";
-			String file = "";
-			String subject = "";
-			String Message = "This email has an attachement. Please find the attach file. Thank You";
-			
+	    	
 			String name = "";
 			String filepath = "";
 			String title = "";
