@@ -225,17 +225,11 @@ public class ShareRepo extends JFrame{
 	    }
 
 	    public static void main(String[] args) throws IOException {
-
-	    	
 			String name = "";
 			String filepath = "";
 			String title = "";
 			String dir = "";
 			
 			new ShareRepo(name,filepath, title,dir).setVisible(true);
-			
-		
-
-		
 		}
 }
